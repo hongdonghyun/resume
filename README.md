@@ -8,14 +8,14 @@
 - Blog: https://hongdonghyun.github.io
 
 
-## 간단 소개
+## 소개
 
 저는 서버개발자로 1년정도 근무한 경험이 있으며,
-Swift의 Optional이라는 개념이 마음에 들어 Swift공부를 시작했습니다.
+Swift의 Optional 개념이 마음에 들어 Swift공부를 시작했습니다.
 
 다른사람에게 항상 도움이 되고 싶어 블로그를 운영하고 있습니다.
 
-도움이 되었다는 말을 들을때마다 뿌듯합니다.
+도움 되었다는 말을 들었을때 가장 뿌듯합니다.
 
 # 보유기술
 
@@ -23,16 +23,15 @@ Swift의 Optional이라는 개념이 마음에 들어 Swift공부를 시작했�
 
 **라이브러리:** Alamofire, Kingfisher, SnapKit, SwiftLint, Then
 
-**데이터베이스:** Mysql, Postgresql
+**데이터베이스:** SQLite, Mysql, Postgresql
 
-**그외:** Backend개발 경험, AWS, Git
+**그외:**  Git, Backend개발 경험, AWS
 
  
 ## 관심분야
 
 - Vapor를 사용하여 웹사이트 띄우기에 도전중
 - Swift 테스트코드를 작성해보고 있습니다.
-- fiddler, chrome dev tools, wireshark를 통한 웹 역공학에 관심이 많습니다.
 
 # 경력
 
@@ -46,7 +45,8 @@ Swift의 Optional이라는 개념이 마음에 들어 Swift공부를 시작했�
 ## 개인 프로젝트
 
 ### 마켓브로콜리
-마켓컬리 Clone
+- 마켓컬리 Clone
+- 협업 프로젝트
 
 ### 기간
 
@@ -62,8 +62,13 @@ Xcode
  
 ### 설명
 
-  - 가장 보편적인 형태의 e-commerce 앱을 클론코딩
-  -  실제 앱의 구조를 파악하고, 직접 구현해보며 보편적인 UI를 만드는 연습을 진행함
+- 가장 보편적인 형태의 e-commerce 앱을 클론코딩
+- iOS팀의 팀장을 맡아 팀의 [일정관리](https://github.com/iOS-WPS-Team3/iOS-team3/projects), 업무 분배를 진행
+- Alamofire, Kingfisher, SnapKit, Then 등을 적용
+- SwiftLint를 사용하여 팀의 코딩 규칙 설정
+-  실제 앱의 구조를 파악하고, 직접 구현해보며 보편적인 UI를 만드는 연습을 진행
+- 팀원간의 커뮤니케이션 방법과 팀간의 커뮤니케이션 방법에 대해 고민하는 계기가 되었음
+
  
 ### 스크린샷, 영상
 
@@ -202,5 +207,5 @@ Pycharm
 
 
 # 학력
-
-강원대학교 전기전자공학과 졸업
+- Fastcampus iOS School 10기 수료(2019.11 ~ 2020.04)
+- 강원대학교 전기전자공학과 졸업(2010.03 ~ 2017.02)
