@@ -1,6 +1,6 @@
 # 홍동현
 
-나의 서비스를 사용하는 유저를 신뢰하지 않는다는 마음가짐으로 항상 개발합니다.
+나의 서비스를 사용하는 유저를 신뢰하지 않는다는 마음가짐으로 개발합니다.
 
 ## Contact
 
@@ -10,7 +10,7 @@
 
 ## 소개
 
-저는 서버개발자로 1년정도 근무한 경험이 있으며,
+Backend Developer로 1년정도 근무했으며,
 Swift의 Optional 개념이 마음에 들어 Swift공부를 시작했습니다.
 
 다른사람에게 항상 도움이 되고 싶어 블로그를 운영하고 있습니다.
@@ -63,7 +63,7 @@ Xcode
 ### 설명
 
 - 가장 보편적인 형태의 e-commerce 앱을 클론코딩
-- iOS팀의 팀장을 맡아 팀의 [일정관리](https://github.com/iOS-WPS-Team3/iOS-team3/projects), 업무 분배를 진행
+- iOS팀의 팀장을 맡아 팀의 [일정관리, 업무분배](https://github.com/iOS-WPS-Team3/iOS-team3/projects)를 진행
 - Alamofire, Kingfisher, SnapKit, Then 등을 적용
 - SwiftLint를 사용하여 팀의 코딩 규칙 설정
 -  실제 앱의 구조를 파악하고, 직접 구현해보며 보편적인 UI를 만드는 연습을 진행
@@ -92,8 +92,8 @@ Xcode
 
 ### 설명
 
-- API 사용과 TableView, CollectionView 사용에 익숙해지고자 만든앱
-- itunes의 RSS 데이터를 사용
+- API, TableView, CollectionView 사용에 익숙해지려 만든앱
+- itunes RSS 데이터를 사용
 
 ### 영상
 
@@ -110,14 +110,12 @@ Xcode
 Xcode, pycharm
 
 ### 개발 언어 및 라이브러리
-- 사용언어: Swift, Python
-- 사용라이브러리: BeautifulSoup(Python)
+- 사용언어: Swift
 
 ### 설명
  - 밥플러스의 식단표를 확인하기 귀찮아서 만들었습니다.
- - API를 직접 구현
- -  Toast Message를 직접 구현
- - UserDefault, Apple Map을 사용해보았습니다.
+ -  Toast Message를 구현
+ -  LaunchScreen구현 및 적용
  -  다크모드를 적용
 
 ### 스크린샷
