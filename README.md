@@ -86,7 +86,6 @@ iOS개발자로 취업준비중에 있습니다.
   - 자주가던 식판밥집 밥플러스의 식단표를 매번 확인하기 귀찮아서 만들었습니다. 직접 데이터를 스크래핑하여 API를 만들었으며, UserDefault, Apple Map을 사용해보았고, Toast Message를 직접 구현해보았습니다. 또한 처음으로 다크모드를 적용해 보았습니다.
 
  ![babplusLight](./assets/babplusminus/lightmode.jpeg)
- 
  ![babplusDark](./assets/babplusminus/darkmode.jpeg)
 
 - 날씨앱
