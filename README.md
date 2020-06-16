@@ -67,6 +67,10 @@ iOS개발자로 취업준비중에 있습니다.
  
  ![marketbroccoli](./assets/marketbroccoli/images.jpeg)
 
+[![Video](http://img.youtube.com/vi/bRYXommsyZU/0.jpg)](https://youtu.be/bRYXommsyZU)
+
+> 클릭시 유튜브로 이동합니다.
+
 - 앱스토어 카피
   - 개발환경: Xcode
   - 사용언어: Swift
