@@ -1,61 +1,45 @@
 # 홍동현
 
-저는 서버개발자로 1년정도 근무한 경험이 있으며,
-Swift의 Optional이라는 개념이 마음에 들어
-Swift공부를 시작했습니다.
-
-현재 iOS개발자로 취업준비중입니다.
-
-개발을 할때 항상
-"나의 서비스를 사용하는 유저를 신뢰하지 않는다"라는 마음가짐으로 개발합니다.
-
-Blog: https://hongdonghyun.github.io
-
-## 관심분야
-
-- Vapor를 사용하여 웹사이트 띄우기에 도전중입니다.
-- 테스트코드를 작성해보고 있습니다.
-- fiddler, chrome dev tools, wireshark를 통한 웹 역공학에 관심이 많습니다.
+나의 서비스를 사용하는 유저를 신뢰하지 않는다는 마음가짐으로 항상 개발합니다.
 
 ## Contact
 
 - Email: hong3@kakao.com
+- Blog: https://hongdonghyun.github.io
+
+
+## 간단 소개
+
+저는 서버개발자로 1년정도 근무한 경험이 있으며,
+Swift의 Optional이라는 개념이 마음에 들어 Swift공부를 시작했습니다.
+
+다른사람에게 항상 도움이 되고 싶어 블로그를 운영하고 있습니다.
+
+도움이 되었다는 말을 들을때마다 뿌듯합니다.
 
 # 보유기술
 
-## Swift
-- Swift5.1 이상 버전에서의 문법이 익숙합니다.
-- Swift로 프로그래머스 2~3레벨 수준의 알고리즘 풀이가 가능합니다.
-- MVC 디자인 패턴을 사용하여 기본적인 앱 작성이 가능합니다.
+**언어:**    Swift, Python
 
-## Git
-- 터미널에서 git 사용이 가능합니다.
-- reset과 revert, pull과 fetch의 차이를 알고있습니다.
+**라이브러리:** Alamofire, Kingfisher, SnapKit, SwiftLint, Then
 
-## Python
-- python3.4 이상 버전에서의 문법이 익숙합니다.
-- Python으로 프로그래머스 2~3레벨 수준의 알고리즘 풀이가 가능합니다.
-- 가상환경 설정이 가능합니다.
-- Django, Flask등의 웹 프레임워크를 다룰 수 있습니다.
+**데이터베이스:** Mysql, Postgresql
 
+**그외:** Backend개발 경험, AWS, Git
 
-## Javascript
-- 간단한 문법 사용이 가능합니다.
-- 기본적인 코드 파악이 가능합니다.
-- Vue.js를 사용해본적이 있습니다.
+ 
+## 관심분야
 
-## 그외
-- 아마존 웹 서비스를 사용하여 서버 배포가 가능합니다.
+- Vapor를 사용하여 웹사이트 띄우기에 도전중
+- Swift 테스트코드를 작성해보고 있습니다.
+- fiddler, chrome dev tools, wireshark를 통한 웹 역공학에 관심이 많습니다.
+
 # 경력
 
 - 헤렌
   - 기간: 2018.06 ~ 2019.08
   - 역할: Backend Developer
   - 프로젝트: [인스타겟](https://www.instaget.com/), [파인앳플](https://www.fineadple.com/)
-
-# 학력
-
-강원대학교 전기전자공학과 졸업
 
 # 프로젝트
 
@@ -215,3 +199,8 @@ Pycharm
 - 스크래핑을 위한 타서비스 구조 분석
 -  데이터 수집
 -  회사별 스크래핑 코드 모듈화
+
+
+# 학력
+
+강원대학교 전기전자공학과 졸업
