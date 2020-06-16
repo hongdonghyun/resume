@@ -57,46 +57,102 @@ iOS개발자로 취업준비중에 있습니다.
 
 ## 개인 프로젝트
 
-- 마켓컬리 Clone (마켓브로콜리)
-  - 개발환경: Xcode
-  - 사용언어: Swift
-  - 사용 라이브러리: Alamofire, Then, SnapKit, Kingfisher, SwiftLint
-  - 역할: iOS개발
-  - 기간: 2020.03 ~ 2020.04  
+### 프로젝트 명
+
+마켓컬리 Clone (마켓브로콜리)
+
+### 기간
+
+2020.03 ~ 2020.04  
+
+### 개발환경
+
+Xcode
+
+### 개발 언어 및 라이브러리
+- 사용언어: Swift
+- 사용 라이브러리: Alamofire, Then, SnapKit, Kingfisher, SwiftLint
+ 
+### 역할
+iOS 개발
+
+### 설명
+
   - 가장 보편적인 형태의 e-commerce 앱을 클론코딩 하여, 실제 앱들의 구조를 파악하고, 직접 구현해보며 보편적인 코드작성에 익숙해지고자 만들었습니다.
  
+### 스크린샷, 영상
+
  ![marketbroccoli](./assets/marketbroccoli/images.jpeg)
 
 [![Video](http://img.youtube.com/vi/bRYXommsyZU/0.jpg)](https://youtu.be/bRYXommsyZU)
 
 > 클릭시 유튜브로 이동합니다.
 
-- 앱스토어 카피
-  - 개발환경: Xcode
-  - 사용언어: Swift
-  - 역할: iOS개발
-  - 기간: 2020.03.02 ~ 2020.03.13
-  - API 호출과 TableView, CollectionView 사용에 익숙해지고 싶어 작성했던 앱입니다. itunes의 RSS 데이터를 사용했습니다.
+
+
+### 프로젝트 명
+앱스토어 카피
+
+### 기간
+2020.03.02 ~ 2020.03.13
+
+### 개발 환경
+Xcode
+
+### 개발 언어 및 라이브러리
+- 개발환경: Xcode
+- 사용언어: Swift
+
+### 설명
+
+API 호출과 TableView, CollectionView 사용에 익숙해지고 싶어 작성했던 앱입니다. itunes의 RSS 데이터를 사용했습니다.
+
+### 영상
 
 [![Video](http://img.youtube.com/vi/twZcRe6tTSc/0.jpg)](https://youtu.be/twZcRe6tTSc)
 
 > 클릭시 유튜브로 이동합니다.
 
-- 밥플러스 식단표앱 (밥플러스 마이너스)
-  - 개발환경: Xcode
-  - 사용언어: Swift, Python
-  - 역할: iOS, Backend 개발
-  - 기간: 2020.03 ~ 2020.03
-  - 자주가던 식판밥집 밥플러스의 식단표를 매번 확인하기 귀찮아서 만들었습니다. 직접 데이터를 스크래핑하여 API를 만들었으며, UserDefault, Apple Map을 사용해보았고, Toast Message를 직접 구현해보았습니다. 또한 처음으로 다크모드를 적용해 보았습니다.
+### 프로젝트 명
+밥플러스 마이너스
 
+### 기간
+2020.03 ~ 2020.03
+
+### 개발환경
+Xcode, pycharm
+
+### 개발 언어 및 라이브러리
+- Swift
+- python
+  - BeautifulSoup 
+
+### 설명
+ 자주가던 식판밥집 밥플러스의 식단표를 매번 확인하기 귀찮아서 만들었습니다. 직접 데이터를 스크래핑하여 API를 만들었으며, UserDefault, Apple Map을 사용해보았고, Toast Message를 직접 구현해보았습니다. 또한 처음으로 다크모드를 적용해 보았습니다.
+
+### 스크린샷
  ![babplusLight](./assets/babplusminus/lightmode.jpeg)
  ![babplusDark](./assets/babplusminus/darkmode.jpeg)
 
-- 날씨앱
-  - 개발환경: Xcode
-  - 사용언어: Swift
-  - 역할: iOS개발
-  - 기간: 2020.02.24 ~ 2020.02.27
-  - SK Weather Planet API를 사용하여 현재위치에서 날씨와 단기예보 데이터를 보여주는 앱입니다. 현재 날씨에 따라 앱의 배경화면이 바뀝니다.
+### 프로젝트 명
+날씨앱
+
+### 기간
+2020.02.24 ~ 2020.02.27
+
+### 개발 환경
+Xcode
+
+### 개발 언어 및 라이브러리
+- Swift
+
+### 설명
+SK Weather Planet API를 사용하여 현재위치에서 날씨와 단기예보 데이터를 보여주는 앱입니다. 현재 날씨에 따라 앱의 배경화면이 바뀝니다.
+
+### 스크린샷
 
   ![babplusDark](./assets/weatherApp/images.jpeg)
+  
+## 회사 프로젝트
+
+### 프로젝트 명
