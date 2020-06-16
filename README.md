@@ -1,13 +1,15 @@
 # 홍동현
 
-저는 서버개발자로 1년정도 근무한 경험이 있고,
+저는 서버개발자로 1년정도 근무한 경험이 있으며,
 Swift의 Optional이라는 개념이 마음에 들어
-Swift공부를 시작했고
+Swift공부를 시작했습니다.
 
-iOS개발자로 취업준비중에 있습니다.
+현재 iOS개발자로 취업준비중입니다.
 
 개발을 할때 항상
 "나의 서비스를 사용하는 유저를 신뢰하지 않는다"라는 마음가짐으로 개발합니다.
+
+Blog: https://hongdonghyun.github.io
 
 ## 관심분야
 
@@ -19,7 +21,6 @@ iOS개발자로 취업준비중에 있습니다.
 
 - Email: hong3@kakao.com
 - Github: https://github.com/hongdonghyun
-- Blog: https://hongdonghyun.github.io
 
 # 보유기술
 
@@ -64,7 +65,7 @@ iOS개발자로 취업준비중에 있습니다.
 ## 개인 프로젝트
 
 ### 마켓브로콜리
-- 마켓컬리 Clone
+마켓컬리 Clone
 
 ### 기간
 
@@ -80,7 +81,8 @@ Xcode
  
 ### 설명
 
-  - 가장 보편적인 형태의 e-commerce 앱을 클론코딩 하여, 실제 앱들의 구조를 파악하고, 직접 구현해보며 보편적인 코드작성에 익숙해지고자 만들었습니다.
+  - 가장 보편적인 형태의 e-commerce 앱을 클론코딩 했습니다.
+  -  실제 앱의 구조를 파악하고, 직접 구현해보며 보편적인 UI를 만드는 연습을 했습니다.
  
 ### 스크린샷, 영상
 
@@ -89,7 +91,6 @@ Xcode
 [![Video](http://img.youtube.com/vi/bRYXommsyZU/0.jpg)](https://youtu.be/bRYXommsyZU)
 
 > 클릭시 유튜브로 이동합니다.
-
 
 
 ### 앱스토어 카피
@@ -105,7 +106,8 @@ Xcode
 
 ### 설명
 
-API 호출과 TableView, CollectionView 사용에 익숙해지고 싶어 작성했던 앱입니다. itunes의 RSS 데이터를 사용했습니다.
+- API 사용과 TableView, CollectionView 사용에 익숙해지고 싶어 작성했던 앱입니다.
+- itunes의 RSS 데이터를 사용했습니다.
 
 ### 영상
 
@@ -126,7 +128,10 @@ Xcode, pycharm
 - 사용라이브러리: BeautifulSoup(Python)
 
 ### 설명
- 자주가던 식판밥집 밥플러스의 식단표를 매번 확인하기 귀찮아서 만들었습니다. 직접 데이터를 스크래핑하여 API를 만들었으며, UserDefault, Apple Map을 사용해보았고, Toast Message를 직접 구현해보았습니다. 또한 처음으로 다크모드를 적용해 보았습니다.
+ - 자주가던 식판밥집 밥플러스의 식단표를 매번 확인하기 귀찮아서 만들었습니다.
+ - 직접 데이터를 스크래핑하여 API를 만들었으며, UserDefault, Apple Map을 사용해보았습니다.
+ -  Toast Message를 직접 구현해보았습니다.
+ -  다크모드를 적용해 보았습니다.
 
 ### 스크린샷
  ![babplusLight](./assets/babplusminus/lightmode.jpeg)
@@ -144,7 +149,8 @@ Xcode
 - 사용언어: Swift
 
 ### 설명
-SK Weather Planet API를 사용하여 현재위치에서 날씨와 단기예보 데이터를 보여주는 앱입니다. 현재 날씨에 따라 앱의 배경화면이 바뀝니다.
+- SK Weather Planet API를 사용하여 현재위치에서 날씨와 단기예보 데이터를 보여주는 앱입니다.
+- 현재 날씨에 따라 앱의 배경화면이 바뀝니다.
 
 ### 스크린샷
 
