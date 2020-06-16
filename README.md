@@ -20,7 +20,6 @@ Blog: https://hongdonghyun.github.io
 ## Contact
 
 - Email: hong3@kakao.com
-- Github: https://github.com/hongdonghyun
 
 # 보유기술
 
