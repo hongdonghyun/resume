@@ -11,7 +11,7 @@
 ## 소개
 
 Backend Developer로 1년정도 근무했으며,
-Swift의 Optional 개념이 마음에 들어 Swift공부를 시작했습니다.
+Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했습니다.
 
 다른사람에게 항상 도움이 되고 싶어 블로그를 운영하고 있습니다.
 
