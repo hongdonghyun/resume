@@ -79,6 +79,8 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 
 ### 스크린샷
 
+ ![hong3Store](./assets/Hong3Store/images.jpeg)
+
 ### 밥플러스 마이너스
 
 ### 기간
