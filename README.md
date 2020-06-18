@@ -122,9 +122,10 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 ### 개발 환경
 - Pycharm
 
-### 개발 언어 및 라이브러리
+### 개발 스펙
 - 사용언어: Python, Javascript
-- 사용 라이브러리: Flask, celery
+- 프레임워크: Flask
+- 데이터베이스: Mysql, Postgresql, RabbitMQ
 
 ### 상세 업무
 - 기존 서비스의 유지보수 및 기능개발
@@ -143,9 +144,10 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 ### 개발환경
 Pycharm
 
-### 개발 언어 및 라이브러리
+### 개발 스펙
 - 사용언어: Python, Javascript
-- 사용 라이브러리: Django, vue.js
+- 프레임워크: Django, vue.js, JQuery
+- 데이터베이스: Postgresql
 
 ### 상세 업무
 - admin 페이지 안정화 작업
@@ -162,7 +164,7 @@ Pycharm
 ### 개발환경
 - Pycharm
 
-### 개발 언어 및 라이브러리
+### 개발 스펙
 - 사용언어: Python
 - 사용 라이브러리: Beautifulsoup, Selenium
 
