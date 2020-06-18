@@ -13,7 +13,7 @@
 Backend Developer로 1년정도 근무했으며,
 Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했습니다.
 
-다른사람에게 항상 도움이 되고 싶어 블로그를 운영하고 있습니다.
+다른사람에게 항상 도움이 되고 싶어 [블로그](https://hongdonghyun.github.io)를 운영하고 있습니다.
 
 도움 되었다는 말을 들었을때 가장 뿌듯합니다.
 
@@ -27,7 +27,6 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 
 **그외:**  Git, Backend개발 경험, AWS
 
- 
 ## 관심분야
 
 - Vapor를 사용하여 웹사이트 띄우기에 도전중
@@ -42,9 +41,9 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 
 # 프로젝트
 
-## 개인 프로젝트
+## 개인/팀 프로젝트
 
-### 마켓브로콜리
+### [마켓브로콜리](https://github.com/iOS-WPS-Team3/iOS-team3/tree/develop)
 - 마켓컬리 Clone
 - 협업 프로젝트
 
@@ -62,11 +61,11 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
  
 ### 설명
 
-- 가장 보편적인 형태의 e-commerce 앱을 클론코딩
-- iOS팀의 팀장을 맡아 팀의 [일정관리, 업무분배](https://github.com/iOS-WPS-Team3/iOS-team3/projects)를 진행
-- Alamofire, Kingfisher, SnapKit, Then 등을 적용
-- SwiftLint를 사용하여 팀의 코딩 규칙 설정
-- 실제 앱의 구조를 파악하고, 직접 구현해보며 보편적인 UI를 만드는 연습을 진행
+- 가장 보편적인 형태의 e-commerce 앱 클론코딩
+- iOS 팀장을 맡아 팀의 [일정관리, 업무분배](https://github.com/iOS-WPS-Team3/iOS-team3/projects)를 진행
+- Alamofire, Kingfisher, SnapKit, Then 적용
+- SwiftLint를 사용하여 팀 코딩 규칙 설정
+- 실제 앱 구조를 파악, 구현하며 보편적인 UI를 만드는 연습 진행
 - 팀원간의 커뮤니케이션 방법과 팀간의 커뮤니케이션 방법에 대해 고민하는 계기가 되었음
 
  
@@ -79,7 +78,7 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 > 클릭시 유튜브로 이동합니다.
 
 
-### 앱스토어 카피
+### [앱스토어 카피](https://github.com/hongdonghyun/AppStore-Copy)
 
 ### 기간
 - 2020.03.02 ~ 2020.03.13
@@ -94,6 +93,7 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 
 - API, TableView, CollectionView 사용에 익숙해지려 만든앱
 - itunes RSS 데이터를 사용
+- Unit Test 적용
 
 ### 영상
 
@@ -101,7 +101,7 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 
 > 클릭시 유튜브로 이동합니다.
 
-### 밥플러스 마이너스
+### [밥플러스 마이너스](https://github.com/hongdonghyun/babplus)
 
 ### 기간
 - 2020.03 ~ 2020.03
@@ -117,13 +117,13 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
  - 밥플러스의 식단표를 확인하기 귀찮아서 만들었습니다.
  -  Toast Message를 구현
  -  LaunchScreen구현 및 적용
- -  다크모드를 적용
+ -  다크모드 적용
 
 ### 스크린샷
  ![babplusLight](./assets/babplusminus/lightmode.jpeg)
  ![babplusDark](./assets/babplusminus/darkmode.jpeg)
 
-### 날씨앱
+### [날씨앱](https://github.com/hongdonghyun/WeatherApp)
 
 ### 기간
 - 2020.02.24 ~ 2020.02.27
@@ -135,12 +135,13 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 - 사용언어: Swift
 
 ### 설명
-- SK Weather Planet API를 사용하여 현재위치에서 날씨와 단기예보 데이터를 보여주는 앱
+- SK Weather Planet API 사용
+-  현재위치 날씨와 단기예보를 보여주는 앱
 - 현재 날씨에 따라 앱의 배경화면이 바뀝니다.
 
 ### 스크린샷
 
-  ![babplusDark](./assets/weatherApp/images.jpeg)
+![babplusDark](./assets/weatherApp/images.jpeg)
   
 ## 회사 프로젝트
 
@@ -201,8 +202,8 @@ Pycharm
 - 타서비스의 데이터 이관작업
 - 고객별로 데이터 구조 설계
 - 스크래핑을 위한 타서비스 구조 분석
--  데이터 수집
--  회사별 스크래핑 코드 모듈화
+- 데이터 수집
+- 회사별 스크래핑 코드 모듈화
 
 
 # 학력
