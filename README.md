@@ -57,7 +57,7 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 - 실제 앱 구조를 파악, 구현하며 보편적인 UI를 만드는 연습 진행
 - 팀원간의 커뮤니케이션 방법과 팀간의 커뮤니케이션 방법에 대해 고민하는 계기가 되었음
 
-[자세히](https://github.com/hongdonghyun/iOS-team3)
+[더 궁금하시다면](https://github.com/hongdonghyun/iOS-team3)👀
  
 ### 스크린샷
 
@@ -75,7 +75,7 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 - API, TableView, CollectionView 사용에 익숙해지려 만든앱
 - 테스트 코드 적용
 
-[자세히](https://github.com/hongdonghyun/AppStore-Copy)
+[더 궁금하시다면](https://github.com/hongdonghyun/AppStore-Copy)👀
 
 ### 스크린샷
 
@@ -88,10 +88,10 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 
 ### 설명
 
-- 밥플러스의 식단표를 확인하기 귀찮아서 만든앱
+- 성수 밥플러스 지점들의 식단표를 보기위해 만든앱
 - 정말 내가 필요해서 만든앱
 
-[자세히](https://github.com/hongdonghyun/babplus)
+[더 궁금하시다면](https://github.com/hongdonghyun/babplus)👀
 
 
 ### 스크린샷
@@ -105,9 +105,9 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 
 ### 설명
 
--  현재위치 날씨와 단기예보를 보여주는 앱
+- 현재위치 날씨와 단기예보를 보여주는 앱
 
-[자세히](https://github.com/hongdonghyun/WeatherApp)
+[더 궁금하시다면](https://github.com/hongdonghyun/WeatherApp)👀
 
 ### 스크린샷
 
@@ -175,7 +175,7 @@ Pycharm
 - 고객별로 데이터 구조 설계
 - 스크래핑을 위한 타서비스 구조 분석
 - 데이터 수집
-- 회사별 스크래핑 코드 모듈화
+- 업체별 스크래핑 코드 모듈화
 
 
 # 활동
