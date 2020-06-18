@@ -5,16 +5,16 @@
 ## Contact
 
 - Email: hong3@kakao.com
-- Blog: https://hongdonghyun.github.io
+- Blog: https://hongdonghyun.github.io/about/
 
 
 ## 소개
 
-Backend Developer로 1년정도 근무했으며,
-Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했습니다.
+Backend Developer로 1년정도 근무후,
 
-다른사람에게 항상 도움이 되고 싶어 [블로그](https://hongdonghyun.github.io)를 운영하고 있습니다.
+Swift의 Optional과 Guard 문법이 마음에 들어 패스트캠퍼스 iOS School을 통해 Swift 공부를 시작했습니다.
 
+개발 욕심이 많으며, 
 도움 되었다는 말을 들었을때 가장 뿌듯합니다.
 
 # 보유기술
@@ -29,7 +29,7 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 
 ## 관심분야
 
-- Vapor를 사용하여 웹사이트 띄우기에 도전중
+- Vapor를 사용해 웹사이트 띄우기에 도전하고 있습니다.
 - Swift 테스트코드를 작성해보고 있습니다.
 
 # 경력
@@ -41,78 +41,6 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 
 # 프로젝트
 
-## 개인/팀 프로젝트
-
-### 마켓브로콜리
-- 마켓컬리 Clone
-- 협업 프로젝트
-
-### 기간
-
-- 2020.03.31 ~ 2020.04.29  
-
-### 설명
-
-- 가장 보편적인 형태의 e-commerce 앱 클론코딩
-- 실제 앱 구조를 파악, 구현하며 보편적인 UI를 만드는 연습 진행
-- 팀원간의 커뮤니케이션 방법과 팀간의 커뮤니케이션 방법에 대해 고민하는 계기가 되었음
-
-[더 궁금하시다면](https://github.com/hongdonghyun/iOS-team3)👀
- 
-### 스크린샷
-
- ![marketbroccoli](./assets/marketbroccoli/images.jpeg)
-
-
-### 앱스토어 카피
-
-### 기간
-- 2020.03.02 ~ 2020.03.13
-
-### 설명
-
-- 패스트캠퍼스 해커톤 자체 평가 2위
-- API, TableView, CollectionView 사용에 익숙해지려 만든앱
-- 테스트 코드 적용
-
-[더 궁금하시다면](https://github.com/hongdonghyun/AppStore-Copy)👀
-
-### 스크린샷
-
- ![hong3Store](./assets/Hong3Store/images.jpeg)
-
-### 밥플러스 마이너스
-
-### 기간
-- 2020.02.13 ~ 2020.03.13
-
-### 설명
-
-- 성수 밥플러스 지점들의 식단표를 보기위해 만든앱
-- 정말 내가 필요해서 만든앱
-
-[더 궁금하시다면](https://github.com/hongdonghyun/babplus)👀
-
-
-### 스크린샷
- ![babplusLight](./assets/babplusminus/lightmode.jpeg)
- ![babplusDark](./assets/babplusminus/darkmode.jpeg)
-
-### 날씨앱
-
-### 기간
-- 2020.02.24 ~ 2020.02.27
-
-### 설명
-
-- 현재위치 날씨와 단기예보를 보여주는 앱
-
-[더 궁금하시다면](https://github.com/hongdonghyun/WeatherApp)👀
-
-### 스크린샷
-
-![babplusDark](./assets/weatherApp/images.jpeg)
-  
 ## 회사 프로젝트
 
 ## 인스타겟
@@ -178,10 +106,83 @@ Pycharm
 - 업체별 스크래핑 코드 모듈화
 
 
+## 개인/팀 프로젝트
+
+### 마켓브로콜리
+- 마켓컬리 Clone
+- 협업 프로젝트
+
+### 기간
+
+- 2020.03.31 ~ 2020.04.29  
+
+### 설명
+
+- 가장 보편적인 형태의 e-commerce 앱 클론코딩
+- 실제 앱 구조를 파악, 구현하며 보편적인 UI를 만드는 연습 진행
+- 팀원간의 커뮤니케이션 방법과 팀간의 커뮤니케이션 방법에 대해 고민하는 계기가 되었음
+
+[더 궁금하시다면](https://github.com/hongdonghyun/iOS-team3)👀
+ 
+### 스크린샷
+
+ ![marketbroccoli](./assets/marketbroccoli/images.jpeg)
+
+
+### 앱스토어 카피
+
+### 기간
+- 2020.03.02 ~ 2020.03.13
+
+### 설명
+
+- 패스트캠퍼스 해커톤 자체 평가 2위
+- TableView와 CollectionView를 사용하여 개발
+- 테스트 코드 적용
+
+[더 궁금하시다면](https://github.com/hongdonghyun/AppStore-Copy)👀
+
+### 스크린샷
+
+ ![hong3Store](./assets/Hong3Store/images.jpeg)
+
+### 밥플러스 마이너스
+
+### 기간
+- 2020.02.13 ~ 2020.03.13
+
+### 설명
+
+- 밥플러스 지점들의 식단표를 보기위해 만든앱
+
+[더 궁금하시다면](https://github.com/hongdonghyun/babplus)👀
+
+
+### 스크린샷
+ ![babplusLight](./assets/babplusminus/lightmode.jpeg)
+ ![babplusDark](./assets/babplusminus/darkmode.jpeg)
+
+### 날씨앱
+
+### 기간
+- 2020.02.24 ~ 2020.02.27
+
+### 설명
+
+- 현재위치 날씨와 단기예보를 보여주는 앱
+
+[더 궁금하시다면](https://github.com/hongdonghyun/WeatherApp)👀
+
+### 스크린샷
+
+![babplusDark](./assets/weatherApp/images.jpeg)
+  
+
 # 활동
-- [패스트캠퍼스 바이트 디그리 Python&Django 조교](https://www.fastcampus.co.kr/courses/202658) | 2019.06 ~ 진행중
+
 - [Swift 알고리즘 스터디](https://www.notion.so/ea8b1b247dc34cf79ef5b20dbb493d90) | 2020.05 ~ 진행중
 - [Swift 기본 문법 스터디](https://github.com/TheSwifters/iOS-Study) | 2020.02 ~ 2020.03
+- [패스트캠퍼스 바이트 디그리 Python&Django 조교](https://www.fastcampus.co.kr/courses/202658) | 2019.06 ~ 진행중
 - 패스트캠퍼스 컴퓨터공학 Extension School 조교 | 2018.06 ~ 2019.03
 
 
