@@ -43,101 +43,69 @@ Swift의 Optional과 Guard 문법이 마음에 들어 Swift공부를 시작했�
 
 ## 개인/팀 프로젝트
 
-### [마켓브로콜리](https://github.com/iOS-WPS-Team3/iOS-team3/tree/develop)
+### 마켓브로콜리
 - 마켓컬리 Clone
 - 협업 프로젝트
 
 ### 기간
 
-- 2020.03 ~ 2020.04  
+- 2020.03.31 ~ 2020.04.29  
 
-### 개발환경
-
-- Xcode
-
-### 개발 언어 및 라이브러리
-- 사용언어: Swift
-- 사용 라이브러리: Alamofire, Then, SnapKit, Kingfisher, SwiftLint
- 
 ### 설명
 
 - 가장 보편적인 형태의 e-commerce 앱 클론코딩
-- iOS 팀장을 맡아 팀의 [일정관리, 업무분배](https://github.com/iOS-WPS-Team3/iOS-team3/projects)를 진행
-- Alamofire, Kingfisher, SnapKit, Then 적용
-- SwiftLint를 사용하여 팀 코딩 규칙 설정
 - 실제 앱 구조를 파악, 구현하며 보편적인 UI를 만드는 연습 진행
 - 팀원간의 커뮤니케이션 방법과 팀간의 커뮤니케이션 방법에 대해 고민하는 계기가 되었음
 
+[자세히](https://github.com/iOS-WPS-Team3/iOS-team3/tree/develop)
  
-### 스크린샷, 영상
+### 스크린샷
 
  ![marketbroccoli](./assets/marketbroccoli/images.jpeg)
 
-[![Video](http://img.youtube.com/vi/bRYXommsyZU/0.jpg)](https://youtu.be/bRYXommsyZU)
 
-> 클릭시 유튜브로 이동합니다.
-
-
-### [앱스토어 카피](https://github.com/hongdonghyun/AppStore-Copy)
+### 앱스토어 카피
 
 ### 기간
 - 2020.03.02 ~ 2020.03.13
 
-### 개발 환경
-- Xcode
-
-### 개발 언어 및 라이브러리
-- 사용언어: Swift
-
 ### 설명
 
+- 패스트캠퍼스 해커톤 자체 평가 2위
 - API, TableView, CollectionView 사용에 익숙해지려 만든앱
-- itunes RSS 데이터를 사용
-- Unit Test 적용
+- 테스트 코드 적용
 
-### 영상
+[자세히](https://github.com/hongdonghyun/AppStore-Copy)
 
-[![Video](http://img.youtube.com/vi/twZcRe6tTSc/0.jpg)](https://youtu.be/twZcRe6tTSc)
+### 스크린샷
 
-> 클릭시 유튜브로 이동합니다.
-
-### [밥플러스 마이너스](https://github.com/hongdonghyun/babplus)
+### 밥플러스 마이너스
 
 ### 기간
-- 2020.03 ~ 2020.03
-
-### 개발환경
-- Xcode
-- Pycharm
-
-### 개발 언어 및 라이브러리
-- 사용언어: Swift
+- 2020.02.13 ~ 2020.03.13
 
 ### 설명
- - 밥플러스의 식단표를 확인하기 귀찮아서 만들었습니다.
- -  Toast Message를 구현
- -  LaunchScreen구현 및 적용
- -  다크모드 적용
+
+- 밥플러스의 식단표를 확인하기 귀찮아서 만든앱
+- 정말 내가 필요해서 만든앱
+
+[자세히](https://github.com/hongdonghyun/babplus)
+
 
 ### 스크린샷
  ![babplusLight](./assets/babplusminus/lightmode.jpeg)
  ![babplusDark](./assets/babplusminus/darkmode.jpeg)
 
-### [날씨앱](https://github.com/hongdonghyun/WeatherApp)
+### 날씨앱
 
 ### 기간
 - 2020.02.24 ~ 2020.02.27
 
-### 개발 환경
-- Xcode
-
-### 개발 언어 및 라이브러리
-- 사용언어: Swift
-
 ### 설명
-- SK Weather Planet API 사용
+
 -  현재위치 날씨와 단기예보를 보여주는 앱
-- 현재 날씨에 따라 앱의 배경화면이 바뀝니다.
+
+[자세히](https://github.com/hongdonghyun/WeatherApp)
 
 ### 스크린샷
 
@@ -204,6 +172,13 @@ Pycharm
 - 스크래핑을 위한 타서비스 구조 분석
 - 데이터 수집
 - 회사별 스크래핑 코드 모듈화
+
+
+# 활동
+- [패스트캠퍼스 바이트 디그리 Python&Django 조교](https://www.fastcampus.co.kr/courses/202658) | 2019.06 ~ 진행중
+- [Swift 알고리즘 스터디](https://www.notion.so/ea8b1b247dc34cf79ef5b20dbb493d90) | 2020.05 ~ 진행중
+- [Swift 기본 문법 스터디](https://github.com/TheSwifters/iOS-Study) | 2020.02 ~ 2020.03
+- 패스트캠퍼스 컴퓨터공학 Extension School 조교 | 2018.06 ~ 2019.03
 
 
 # 학력
