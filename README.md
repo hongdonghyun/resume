@@ -14,7 +14,7 @@ Backend Developer로 1년정도 근무후,
 
 Swift의 Optional과 Guard 문법이 마음에 들어 패스트캠퍼스 iOS School을 통해 Swift 공부를 시작했습니다.
 
-개발 욕심이 많으며, 
+경험을 공유하는것을 좋아하며, 
 도움 되었다는 말을 들었을때 가장 뿌듯합니다.
 
 # 보유기술
